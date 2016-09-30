@@ -1,4 +1,4 @@
-json-checker
+rapidjson-checker
 ============
 
 Build
@@ -6,7 +6,7 @@ Build
 
 ```
 brew install rapidjson
-clang++ json-checker.cpp -o json-checker
+clang++ rapidjson-checker.cpp -o rapidjson-checker
 ```
 
 License
